@@ -1,4 +1,3 @@
-# Smart-Student-Management-System-with-Analytics
 # Smart Student Management System with Analytics
 
 A complete DBMS course project built for a university-level submission. The project uses PostgreSQL for the relational core, MongoDB for attendance sensor/event logs, and Python to simulate IoT attendance events.
